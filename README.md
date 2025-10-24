@@ -1,5 +1,4 @@
 # E-Commerce-Product-Page
-🛍️ E-Commerce Product Page
 
 E-Commerce Product Page is a responsive and interactive web application that allows users to browse, search, and view detailed information about products. Built using HTML, CSS, and JavaScript, the project provides a smooth shopping experience with a clean and modern interface.
 
